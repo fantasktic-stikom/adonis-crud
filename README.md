@@ -10,3 +10,4 @@ This is a simple crud using adonis js
 - Run `adonis migration:run` to setup the database
 - Run `npm run build` to build static assets
 - Run `adonis serve --dev` to run the application
+
